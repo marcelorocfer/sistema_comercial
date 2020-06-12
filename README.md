@@ -1,3 +1,3 @@
 # Sistema Comercial
 
-Sistema comercial desenvolvido durante o curso da Isweb.
+Sistema comercial desenvolvido com o framework PHP Codeigniter.
